@@ -1,5 +1,5 @@
 <div align=center>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://acetes-mate.tistory.com/)](https://acetes-mate.tistory.com/)
+[![tistory Badge](http://img.shields.io/badge/-tistory%20blog-black?style=flat-square&logo=tistory&link=https://acetes-mate.tistory.com/)](https://acetes-mate.tistory.com/)
 
 </div>
