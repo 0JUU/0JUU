@@ -25,4 +25,4 @@
 
 ![0JUU's github stats](https://github-readme-stats.vercel.app/api?username=0JUU&show_icons=true&theme=highcontrast)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
