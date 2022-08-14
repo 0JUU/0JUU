@@ -4,7 +4,7 @@
 <br/><br/>
 
 --------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0JUU&layout=compact&theme=highcontrast&langs_count=6)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0JUU&layout=compact&theme=highcontrast&langs_count=6)
 <br/><br/>
 
-[![0JUU's github stats](https://github-readme-stats.vercel.app/api?username=0JUU&show_icons=true&theme=highcontrast)]
+[![0JUU's github stats](https://github-readme-stats.vercel.app/api?username=0JUU&show_icons=true&theme=highcontrast)
