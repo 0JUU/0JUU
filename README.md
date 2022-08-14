@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=NAM%20YEONG%20JU&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=NAM%20YEONG%20JU&fontSize=90" />
 
 <div align=center><h1>⚒STACKS</h1></div>
 <div align=center>
@@ -24,3 +24,5 @@
 <br/><br/>
 
 ![0JUU's github stats](https://github-readme-stats.vercel.app/api?username=0JUU&show_icons=true&theme=highcontrast)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer" />
