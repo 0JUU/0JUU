@@ -1,5 +1,10 @@
-<div align=center>
+<div align=center><h1></h1></div>
 
-[![tistory Badge](http://img.shields.io/badge/-tistory%20blog-black?style=flat-square&logo=tistory&link=https://acetes-mate.tistory.com/)](https://acetes-mate.tistory.com/)
+<p align=center><a href="https://acetes-mate.tistory.com/"><img src="https://img.shields.io/badge/tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://acetes-mate.tistory.com/"/></a></p>
+<br/><br/>
 
-</div>
+--------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0JUU&layout=compact&theme=highcontrast&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<br/><br/>
+
+[![0JUU's github stats](https://github-readme-stats.vercel.app/api?username=0JUU&show_icons=true&theme=highcontrast)](https://github.com/0JUU/github-readme-stats)
