@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=NAM%20YEONG%20JU&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YEONGJU%20NAM&fontSize=70" />
 
 <div align=center><h1>⚒Tech Stack⚒</h1></div>
 <div align=center>
