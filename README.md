@@ -14,7 +14,7 @@
 
 <div align=center><h1>✔Blog</h1></div>
 <p align=center>
-  <a href="https://acetes-mate.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://acetes-mate.tistory.com/"/></a>
+  <a href="https://acetes-mate.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-A9BCF5?style=for-the-badge&logo=tistory&logoColor=black&link=https://acetes-mate.tistory.com/"/></a>
 </p>
 <br/><br/>
 
