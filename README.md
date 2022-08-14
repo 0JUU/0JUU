@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=NAM%20YEONG%20JU&fontSize=90" />
 
---------
-<br/>
 <div align=center><h1>⚒STACKS</h1></div>
 <div align=center>
   <p>FRONT-END</p>
