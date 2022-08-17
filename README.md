@@ -19,7 +19,7 @@
 <div align=center><h1>✔Notion</h1></div>
 <p align=center>
   <a href="https://positive-bramble-400.notion.site/Back-End-Developer-1f713fafd03446f388d3fdf96e94a41e"/
-"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=black&link=https://positive-bramble-400.notion.site/Back-End-Developer-1f713fafd03446f388d3fdf96e94a41e"/></a>
+"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=000000&link=https://positive-bramble-400.notion.site/Back-End-Developer-1f713fafd03446f388d3fdf96e94a41e"/></a>
 </p>
 <br/><br/>
 
